@@ -1,1 +1,1 @@
-# Parameterz-optimisation_of_SVM
+# Parameter_optimisation_of_SVM
